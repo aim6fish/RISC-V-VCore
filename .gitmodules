@@ -1,0 +1,3 @@
+[submodule "ridecore"]
+	path = ridecore
+	url = https://github.com/aim6fish/ridecore
